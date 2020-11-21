@@ -2,24 +2,24 @@ TRANSFORM ADRUINO TO MIDI DEVICE
 
 ITA
 
-- installa atmel filp
-- mentre arduino è collegato con un pezzo metallico tocca le lamelle vicino il tasto di riavvio in modo che in gestione pc la riconosce come dispositivo usb
-- installa i driver atmel
-- apri atmel
-- scegli al chip atmusbu16 tipo e poi fai usb open
+- installare atmel filp
+- mentre arduino Ã¨ collegato con un pezzo metallico toccare le lamelle vicino al tasto di riavvio in modo che in gestione pc windows riconosce arduino come dispositivo usb     generco
+- installare i driver atmel
+- aprire atmel
+- scegliere al chip atmusbu16 tipo e poi usb open
 - file carica hex desiderato
-- clicca sul chip con freccia rossa di upload
-- anche più volte
+- cliccare sul chip con freccia rossa di upload
+- anche piÃ¹ volte (capita spesso che sia necessario)
 - START
-- disconnetti e riconnetti ardu
+- disconnettere e riconnettere arduino
 
 ----------------------------------------------------------------------------------------------------------
 
-IMPORTANTE: il bauderate in MIDI è 31250 quando sperimenti metti quello di "hairless-midiserial.exe"
+IMPORTANTE: il bauderate in MIDI Ã¨ 31250 quando si sperimenta sarÃ  necessario quello di "hairless-midiserial.exe"
 
 ---------------------------------------------------------------------------------------------------------
 
-RIAVVIA
+RIAVVIARE
 - FATTO.
 
 
